@@ -1,0 +1,50 @@
+.Features-Container{ 
+    height: 50vh;
+    width: 100vw;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.Features-Row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+}
+
+.Features-Header-Main {
+    font-weight: 400;
+    font-size: 1em;
+    color: pink;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(22, 22, 22);
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding: 2.5%;
+    border-radius: 25px;
+    height: auto;
+}
+
+.Features-Icon {
+    font-size: 2em;
+    margin-bottom: 5vh;
+    color: rgb(233, 233, 233);
+}
+
+.Features-Header {
+    font-weight: 400;
+    font-size: 1em;
+    color: pink;
+}
+

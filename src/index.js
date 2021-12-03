@@ -2,12 +2,22 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Contact from './Components/Pages/Contact/Contact';
+import About from './Components/Pages/About/About';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Router>
+    <Routes>
+      <Route path="/" element={<App />}/>
+      <Route path="about" element={<About />} />
+      <Route path="contact" element={<Contact />} />
+    </Routes>
+  </Router>,
   document.getElementById('root')
 );
 

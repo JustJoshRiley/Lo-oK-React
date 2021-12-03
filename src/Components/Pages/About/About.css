@@ -1,0 +1,26 @@
+.About-Container {
+    height: 100%;
+    background-color: black;
+    padding-top: 5%;
+}
+
+.AboutInfo {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    height: 25vh;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(14, 14, 14);
+    padding: 2.5%;
+    color: pink;
+}
+
+.AboutInfo h1 {
+    width: 100%;
+    text-align: center;
+}
+
+.AboutInfo p {
+    text-align: center;
+    padding: 2.5%;
+}
