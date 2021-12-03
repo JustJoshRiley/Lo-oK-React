@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Lo-oK-React/static/css/main.0b1b1220.chunk.css",
+    "main.js": "/Lo-oK-React/static/js/main.82f9391d.chunk.js",
+    "main.js.map": "/Lo-oK-React/static/js/main.82f9391d.chunk.js.map",
+    "runtime-main.js": "/Lo-oK-React/static/js/runtime-main.ea3424cd.js",
+    "runtime-main.js.map": "/Lo-oK-React/static/js/runtime-main.ea3424cd.js.map",
+    "static/css/2.4659568d.chunk.css": "/Lo-oK-React/static/css/2.4659568d.chunk.css",
+    "static/js/2.689e9c0e.chunk.js": "/Lo-oK-React/static/js/2.689e9c0e.chunk.js",
+    "static/js/2.689e9c0e.chunk.js.map": "/Lo-oK-React/static/js/2.689e9c0e.chunk.js.map",
+    "static/js/3.e3b5f0f6.chunk.js": "/Lo-oK-React/static/js/3.e3b5f0f6.chunk.js",
+    "static/js/3.e3b5f0f6.chunk.js.map": "/Lo-oK-React/static/js/3.e3b5f0f6.chunk.js.map",
+    "index.html": "/Lo-oK-React/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/Lo-oK-React/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.0b1b1220.chunk.css.map": "/Lo-oK-React/static/css/main.0b1b1220.chunk.css.map",
+    "static/js/2.689e9c0e.chunk.js.LICENSE.txt": "/Lo-oK-React/static/js/2.689e9c0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea3424cd.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.689e9c0e.chunk.js",
+    "static/css/main.0b1b1220.chunk.css",
+    "static/js/main.82f9391d.chunk.js"
+  ]
+}
